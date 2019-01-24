@@ -1,0 +1,14 @@
+c:\users\anik\documents\visual studio 2012\Projects\Click_Me_Tools\Click_Me_Tools\bin\Debug\Click_Me_Tools.exe.config
+c:\users\anik\documents\visual studio 2012\Projects\Click_Me_Tools\Click_Me_Tools\bin\Debug\Click_Me_Tools.exe
+c:\users\anik\documents\visual studio 2012\Projects\Click_Me_Tools\Click_Me_Tools\bin\Debug\Click_Me_Tools.pdb
+c:\users\anik\documents\visual studio 2012\Projects\Click_Me_Tools\Click_Me_Tools\obj\Debug\Click_Me_Tools.csprojResolveAssemblyReference.cache
+c:\users\anik\documents\visual studio 2012\Projects\Click_Me_Tools\Click_Me_Tools\obj\Debug\MainWindow.baml
+c:\users\anik\documents\visual studio 2012\Projects\Click_Me_Tools\Click_Me_Tools\obj\Debug\MainWindow.g.cs
+c:\users\anik\documents\visual studio 2012\Projects\Click_Me_Tools\Click_Me_Tools\obj\Debug\App.g.cs
+c:\users\anik\documents\visual studio 2012\Projects\Click_Me_Tools\Click_Me_Tools\obj\Debug\Click_Me_Tools_MarkupCompile.cache
+c:\users\anik\documents\visual studio 2012\Projects\Click_Me_Tools\Click_Me_Tools\obj\Debug\Click_Me_Tools.g.resources
+c:\users\anik\documents\visual studio 2012\Projects\Click_Me_Tools\Click_Me_Tools\obj\Debug\Click_Me_Tools.Properties.Resources.resources
+c:\users\anik\documents\visual studio 2012\Projects\Click_Me_Tools\Click_Me_Tools\obj\Debug\Click_Me_Tools.csproj.GenerateResource.Cache
+c:\users\anik\documents\visual studio 2012\Projects\Click_Me_Tools\Click_Me_Tools\obj\Debug\Click_Me_Tools.exe
+c:\users\anik\documents\visual studio 2012\Projects\Click_Me_Tools\Click_Me_Tools\obj\Debug\Click_Me_Tools.pdb
+c:\users\anik\documents\visual studio 2012\Projects\Click_Me_Tools\Click_Me_Tools\obj\Debug\Resources\GlassButton.baml
